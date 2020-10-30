@@ -1,0 +1,21 @@
+html {
+    font-family: Arial;
+}
+h1 {
+    color: crimson;
+    background-color: #d9d9af;
+    text-align: center;
+    font-family: monospace, sans-serif;
+    border: 3px solid black;
+    margin-top: 40px;
+}
+.cuisinier {
+    text-align: center;
+}
+
+body {
+    background-color: #f5f5e4;
+}
+h2 {
+    font-family: "Arial Black";
+}
